@@ -1,7 +1,9 @@
 {
- "version": "十五",
+ "version": "十七",
  "content": "更改主界面UI，修复部分功能闪退问题
  
-新增功能 时间屏幕，二维码生成，历史上的今天，QQ透明头像",
- "url": "https://github.com/shixin423/SX-Tools/raw/master/NewProject6_sign.apk"
+历史上的今天支持切换日期，新增功能 振动器 WIFI密码查看 查看设备信息 聊天机器人 图片压缩 图片灰白化 特殊文本生成 随机数生成
+ 
+ 如果无法更新，请到酷安更新，或者https://www.coolapk.com/apk/com.shixin.tools",
+ "url": "https://github.com/shixin423/SX-Tools/raw/master/shixin.apk"
 }
